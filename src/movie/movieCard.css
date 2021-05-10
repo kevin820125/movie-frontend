@@ -1,0 +1,17 @@
+.image{
+  text-align: center;
+  margin-left: -10%;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.overview{
+  color: brown;
+  padding-left:10px;
+  border-left:4px gold dotted;
+}
+
+
+/* .title{
+  margin-top:10px;
+} */

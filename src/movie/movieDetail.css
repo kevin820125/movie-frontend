@@ -1,0 +1,57 @@
+.trailer{
+    text-align: center;
+    margin-top: 40px;
+    /* margin:0 auto */
+    color:brown;
+}
+
+.film{
+    text-align: center;
+    margin:0 auto
+}
+
+
+.fa{
+    margin-top: -50px;
+    margin-left: 10%;
+    margin-bottom: 30px;
+    text-align: center;
+    display: inline-block;
+}
+
+.commentArea{
+    margin:50px 0;
+
+    border-left: gold 2px dotted;
+    text-align: center;
+}
+
+
+.commentform{
+    text-align: center;
+}
+.error{
+    text-align: center;
+}
+
+.similar{
+    text-align: center;
+    margin:40px 0;
+    color:brown
+}
+
+.textarea{
+    margin-left: 5px;
+    color:cornsilk;
+    border:none;
+    border-bottom:gold 2px dotted;
+    background: black;
+    /* height: 20px; */
+}
+
+.comment-btn{
+    margin-left: 15px;
+    border:none;
+    background-color:black;
+    color:white
+}
